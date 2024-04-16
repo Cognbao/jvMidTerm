@@ -1,0 +1,15 @@
+ID: 1, Full Name: John Doe, Birth Day: 1990-01-01, Phone: 123456789, Email: john@example.com, Employee Type: Experience, Experience in Year: 5, Professional Skill: Java
+ID: 2, Full Name: Alice Smith, Birth Day: 1995-05-05, Phone: 987654321, Email: alice@example.com, Employee Type: Fresher, Graduation Date: 2020-06-01, Graduation Rank: Excellent, Education: Computer Science
+ID: 3, Full Name: Bob Johnson, Birth Day: 2000-10-10, Phone: 456789123, Email: bob@example.com, Employee Type: Intern, Majors: Software Engineering, Semester: Spring 2024, University Name: ABC University
+ID: 1, Full Name: VietDoDo, Birth Day: 2005-02-10, Phone: 123456789, Email: vietdodo@gmail.com, Employee Type: Experience, Experience in Year: 20, Professional Skill: Java
+ID: 2, Full Name: Danhphan, Birth Day: 2001-12-05, Phone: 123456779, Email: danhp@gmail.com, Employee Type: Fresher, Graduation Date: 2027-07-02, Graduation Rank: Gud, Education: Computer Science
+ID: 3, Full Name: Trimai, Birth Day: 2000-10-10, Phone: 023446789, Email: trim@gmail.com, Employee Type: Intern, Majors: Software Engineering, Semester: Spring 2024, University Name: Vietnam Korea University
+ID: 1, Full Name: John Doe, Birth Day: 1990-01-01, Phone: 123456789, Email: john@example.com, Employee Type: Experience, Experience in Year: 5, Professional Skill: Java
+ID: 2, Full Name: Alice Smith, Birth Day: 1995-05-05, Phone: 987654321, Email: alice@example.com, Employee Type: Fresher, Graduation Date: 2020-06-01, Graduation Rank: Excellent, Education: Computer Science
+ID: 3, Full Name: Bob Johnson, Birth Day: 2000-10-10, Phone: 456789123, Email: bob@example.com, Employee Type: Intern, Majors: Software Engineering, Semester: Spring 2024, University Name: ABC University
+ID: 12, Full Name: Cogbal, Birth Day: 2005-10-14, Phone: 01291029, Email: cogbal@Gmail.com, Employee Type: Experience, Experience in Year: 1, Professional Skill: sleep
+ID: 12, Full Name: abc, Birth Day: asdasd, Phone: asdasdas, Email: asdaasdasd, Employee Type: Fresher, Graduation Date: 2005-10-21, Graduation Rank: Challenger, Education: Java
+ID: 1, Full Name: John Doe, Birth Day: 1990-01-01, Phone: 123456789, Email: john@example.com, Employee Type: Experience, Experience in Year: 5, Professional Skill: Java
+ID: 2, Full Name: Alice Smith, Birth Day: 1995-05-05, Phone: 987654321, Email: alice@example.com, Employee Type: Fresher, Graduation Date: 2020-06-01, Graduation Rank: Excellent, Education: Computer Science
+ID: 3, Full Name: Bob Johnson, Birth Day: 2000-10-10, Phone: 456789123, Email: bob@example.com, Employee Type: Intern, Majors: Software Engineering, Semester: Spring 2024, University Name: ABC University
+ID: 1, Full Name: cogbao, Birth Day: 2005-12-10, Phone: 012901291, Email: Cogbao@gmail.com, Employee Type: Experience, Experience in Year: 12, Professional Skill: Java
